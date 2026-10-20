@@ -10,9 +10,9 @@ A beginner IT support portfolio project documenting structured troubleshooting s
 - Develop technical documentation skills relevant to IT support and help desk roles.
 
 ## Troubleshooting Guides
-- Slow Computer slow-computer.md
-- [Wi-Fi Connected but No Internet] wifi-no-internet.md 
-- [Website Will Not Load — DNS Basics](dns-website-not-loading.mdP)
+- [Slow Computer](./slow-computer.md)
+- [Wi-Fi Connected but No Internet](./wifi-no-internet.md)
+- [Website Will Not Load — DNS Basics](./dns-website-not-loading.md)
 
 ## Troubleshooting Method
 1. Identify the symptoms and gather information.
