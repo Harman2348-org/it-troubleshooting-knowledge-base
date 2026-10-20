@@ -23,6 +23,15 @@
 7. Run built-in security scanning tools if malware is a reasonable concern.
 8. Retest the original symptom after each change.
 
+   ## Windows Diagnostic Tools
+
+- **Task Manager:** Press `Ctrl + Shift + Esc` to identify processes using unusually high CPU, memory, or disk resources.
+- **Storage settings:** Open Settings → System → Storage to check available disk space.
+- **Windows Update:** Open Settings → Windows Update to check for pending updates.
+- **Windows Security:** Open Windows Security → Virus & threat protection to review security status and run a scan when appropriate.
+
+**Caution:** Before ending a process, uninstalling software, or making system changes, identify what it does and save important work. Avoid terminating unfamiliar system processes.
+
 ## Possible causes
 - Too many apps running at once.
 - Low available storage or memory pressure.
@@ -31,7 +40,19 @@
 - Hardware limitations or a possible hardware fault.
 
 ## Resolution and verification
-Record what action was taken and retest the original symptom. Do not state that the problem is fixed unless the result was verified.
+After identifying a likely cause:
+
+Apply one appropriate change at a time.
+
+Restart the affected application or computer if necessary.
+
+Repeat the original test, such as opening the affected application or measuring startup behavior.
+
+Compare the result with the original symptoms.
+
+Record whether performance improved and whether further investigation is needed.
+
+Do not claim the issue is resolved unless the original symptom has been retested successfully.
 
 ## Outcome log
 - Device / OS:
